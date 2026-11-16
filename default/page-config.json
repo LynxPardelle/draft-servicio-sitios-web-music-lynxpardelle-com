@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "domain": "servicio-sitios-web.music.lynxpardelle.com",
+  "pageId": "default",
+  "rootIds": [
+    "site-shell"
+  ],
+  "modalRootIds": [],
+  "seo": {
+    "title": "Sitios web para músicos y bandas | Lynx Pardelle",
+    "description": "Dale a tu proyecto musical un sitio propio donde escuchar tus lanzamientos, consultar fechas y encontrar cómo contratarte. Diseñamos la navegación según lo que necesitan tus fans, medios y promotores.",
+    "canonical": "https://servicio-sitios-web.music.lynxpardelle.com/",
+    "robots": "index,follow",
+    "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/images/lynx-offer-v1-servicio-web.webp"
+    }
+  }
+}
