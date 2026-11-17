@@ -7,12 +7,56 @@
   ],
   "modalRootIds": [],
   "seo": {
-    "title": "Sitios web para músicos y bandas | Lynx Pardelle",
-    "description": "Dale a tu proyecto musical un sitio propio donde escuchar tus lanzamientos, consultar fechas y encontrar cómo contratarte. Diseñamos la navegación según lo que necesitan tus fans, medios y promotores.",
+    "title": "Diseño de sitios web para músicos y bandas | Lynx Pardelle",
+    "description": "Reúne música, fechas, biografía y contacto en el sitio de tu proyecto musical. Diseña una navegación adaptable para fans, medios y promotores.",
     "canonical": "https://servicio-sitios-web.music.lynxpardelle.com/",
     "robots": "index,follow",
     "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/servicio-sitios-web-r2-b9c8830b5910a9c1.webp",
+      "title": "Diseño de sitios web para músicos y bandas | Lynx Pardelle",
+      "description": "Reúne música, fechas, biografía y contacto en el sitio de tu proyecto musical. Diseña una navegación adaptable para fans, medios y promotores.",
+      "url": "https://servicio-sitios-web.music.lynxpardelle.com/",
+      "imageAlt": "Vista de un sitio de artista en computadora y teléfono."
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Diseño de sitios web para músicos y bandas | Lynx Pardelle",
+      "description": "Reúne música, fechas, biografía y contacto en el sitio de tu proyecto musical. Diseña una navegación adaptable para fans, medios y promotores.",
       "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/servicio-sitios-web-r2-b9c8830b5910a9c1.webp"
     }
+  },
+  "structuredData": {
+    "entries": [
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "@id": "https://servicio-sitios-web.music.lynxpardelle.com/#webpage",
+        "name": "Sitios web para músicos y bandas",
+        "description": "Reúne música, fechas, biografía y contacto en el sitio de tu proyecto musical. Diseña una navegación adaptable para fans, medios y promotores.",
+        "url": "https://servicio-sitios-web.music.lynxpardelle.com/",
+        "inLanguage": "es",
+        "isPartOf": {
+          "@type": "CollectionPage",
+          "name": "Servicios",
+          "url": "https://music.lynxpardelle.com/servicios"
+        },
+        "mainEntity": {
+          "@id": "https://servicio-sitios-web.music.lynxpardelle.com/#contenido-de-la-oferta"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "@id": "https://servicio-sitios-web.music.lynxpardelle.com/#contenido-de-la-oferta",
+        "name": "Sitios web para músicos y bandas",
+        "description": "Reúne música, fechas, biografía y contacto en el sitio de tu proyecto musical. Diseña una navegación adaptable para fans, medios y promotores.",
+        "url": "https://servicio-sitios-web.music.lynxpardelle.com/",
+        "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/servicio-sitios-web-r2-b9c8830b5910a9c1.webp",
+        "provider": {
+          "@id": "https://lynxpardelle.com/#person"
+        },
+        "serviceType": "Sitios web para músicos y bandas"
+      }
+    ]
   }
 }
